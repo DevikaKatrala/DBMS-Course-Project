@@ -8,8 +8,4 @@ Features:
 - Insert records
 - Delete records with confirmation
 
-Required files:
-- Presentation-III PPT/PDF
-- UI source code: app.py
-- Dependency list: requirements.txt
-- Screenshots of the UI and before/after operation results
+
