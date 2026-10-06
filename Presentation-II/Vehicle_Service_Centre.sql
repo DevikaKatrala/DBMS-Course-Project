@@ -1,4 +1,4 @@
--- FOR A FRESH DATABASE ONLY. Do not run if your database already exists.
+
 CREATE DATABASE VehicleServiceCentre;
 USE VehicleServiceCentre;
 
